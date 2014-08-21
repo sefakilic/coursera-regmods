@@ -1,10 +1,5 @@
----
-title: "Is it worth learning how to drive stick shift?"
-author: "Sefa Kilic"
-output: pdf_document
----
+# Is it worth learning how to drive stick shift?
 
-# Introduction
 One of the greatest debate about cars is on the transmission type. While
 the manual transmission is on its way towards extinction in the US, they are
 [still very popular in Europe](http://www.dctfacts.com/archive/2008/why-dual-clutch-technology-big-business.aspx).
